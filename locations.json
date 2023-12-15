@@ -1,1 +1,142 @@
-
+[
+  {
+    "coordinates": [82.7432022836318, -101.95312500000001],
+    "name": "College of Agriculture and Agri-Industries",
+    "type": "college"
+  },
+  {
+    "coordinates": [82.62005201499016, -70.31250000000001],
+    "name": "CASNR Canteen",
+    "type": "building"
+  },
+  {
+    "coordinates": [78.09829559916763, -102.216796875],
+    "name": "Farmer's Information Technology Services",
+    "type": "building"
+  },
+  {
+    "coordinates": [78.69910592550542, -43.505859375],
+    "name": "Caraga Food Innovative Center",
+    "type": "building"
+  },
+  {
+    "coordinates": [84.75448226958767, -29.179687500000004],
+    "name": "CSU Main Gate",
+    "type": "gate"
+  },
+  {
+    "coordinates": [-36.597889133070204, 97.03125000000001],
+    "name": "CSU Green Gate",
+    "type": "gate"
+  },
+  {
+    "coordinates": [68.13885164925576, 74.35546875000001],
+    "name": "Caraga Consortium for Agriculture",
+    "type": "building"
+  },
+  {
+    "coordinates": [81.64692672160267, -142.03125000000003],
+    "name": "CAA Greenhouse",
+    "type": "building"
+  },
+  {
+    "coordinates": [82.4256290002969, 10.634765625],
+    "name": "CSU College of Education",
+    "type": "college"
+  },
+  {
+    "coordinates": [81.05229728318157, 4.306640625],
+    "name": "CED CR",
+    "type": "CR"
+  },
+  {
+    "coordinates": [48.922499263758255, -14.765625000000002],
+    "name": "CSU Department of Biology",
+    "type": "college"
+  },
+  {
+    "coordinates": [39.50404070558415, 11.77734375],
+    "name": "NSB",
+    "type": "building"
+  },
+  {
+    "coordinates": [23.966175871265044, 42.18750000000001],
+    "name": "NSB Female CR",
+    "type": "Female CR"
+  },
+  {
+    "coordinates": [58.12431960569377, 40.78125000000001],
+    "name": "NSB Male CR",
+    "type": "Male CR"
+  },
+  {
+    "coordinates": [22.024545601240337, 11.425781250000002],
+    "name": "Chemistry Lab Stockroom",
+    "type": "office"
+  },
+  {
+    "coordinates": [42.42345651793833, -53.08593750000001],
+    "name": "CSU Library",
+    "type": "library"
+  },
+  {
+    "coordinates": [12.55456352859367, -80.15625000000001],
+    "name": "CSE Dead Office",
+    "type": "office"
+  },
+  {
+    "coordinates": [-19.476950206488414, -120.58593750000001],
+    "name": "CSU Bookshop",
+    "type": "bookshop"
+  },
+  {
+    "coordinates": [-80.98368830825945, -69.25781250000001],
+    "name": "Old CAS Building",
+    "type": "building"
+  },
+  {
+    "coordinates": [-81.38765019536311, -95.44921875],
+    "name": "Old CAS Building CR",
+    "type": "CR"
+  },
+  {
+    "coordinates": [-22.59372606392931, 15.117187500000002],
+    "name": "CSU New Admin Building",
+    "type": "building"
+  },
+  {
+    "coordinates": [-47.27922900257082, -1.9335937500000002],
+    "name": "Accreditation Office",
+    "type": "office"
+  },
+  {
+    "coordinates": [-47.040182144806664, 14.23828125],
+    "name": "CSU USG Office",
+    "type": "office"
+  },
+  {
+    "coordinates": [-14.093957177836224, 61.17187500000001],
+    "name": "Farmer Mechanization Center Building",
+    "type": "building"
+  },
+  {
+    "coordinates": [-74.54332982677904, 26.367187500000004],
+    "name": "Kinaadman Hall College of Humanities, Arts, and Social Sciences",
+    "type": "college"
+  },
+  {
+    "coordinates": [-68.84766505841037, 32.69531250000001],
+    "name": "Kinaadman Hall Male CR",
+    "type": "Male CR"
+  },
+  {
+    "coordinates": [-78.24243607612065, 30.76171875],
+    "name": "Kinaadman Hall Female CR",
+    "type": "Female CR"
+  },
+  {
+    "coordinates": [-52.908902047770255, -68.55468750000001],
+    "name": "CSU Field",
+    "type": "field"
+  }
+]
